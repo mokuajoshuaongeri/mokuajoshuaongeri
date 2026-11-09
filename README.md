@@ -1,16 +1,16 @@
-# 👋 Mokua Joshua Ongeri
+# Mokua Joshua Ongeri
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047FF,100:001B5E&height=180&section=header&text=MOKUA%20JOSHUA%20ONGERI&fontSize=34&fontColor=ffffff&fontAlignY=45&desc=Information%20Technology%20Student%20%7C%20Software%20Developer&descSize=15&descAlignY=68&descColor=DCEAFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EAF2FF,100:B7CEFF&height=160&section=header&text=Mokua%20Joshua%20Ongeri&fontSize=34&fontColor=0647C9&fontAlignY=45&desc=Information%20Technology%20Student%20%7C%20Software%20Developer&descSize=14&descAlignY=70&descColor=25446F" width="100%" />
 </p>
 
 <p align="center">
   <strong>Information Technology Student | Software Developer | Tech Entrepreneur</strong><br>
-  📍 Kibabii University · Bungoma, Kenya
+  Kibabii University · Bungoma, Kenya
 </p>
 
 <p align="center">
-  <strong>Building practical digital solutions that solve real-world problems.</strong>
+  Building practical digital solutions that solve real-world problems.
 </p>
 
 ---
@@ -107,5 +107,5 @@ Fourth Year
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001B5E,100:0047FF&height=80&section=footer&text=Building%20%7C%20Learning%20%7C%20Improving&fontSize=18&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B7CEFF,100:EAF2FF&height=65&section=footer&text=Building%20%7C%20Learning%20%7C%20Improving&fontSize=17&fontColor=0647C9" width="100%" />
 </p>
